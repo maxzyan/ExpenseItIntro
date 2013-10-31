@@ -1,0 +1,44 @@
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\bin\Debug\ExpenseIt9.exe
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\bin\Debug\ExpenseIt9.pdb
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\ExpenseItIntro.csprojResolveAssemblyReference.cache
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\ExpenseItHome.baml
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\ExpenseReportPage.baml
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\MainWindow.baml
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\App.baml
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\ExpenseItHome.g.cs
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\ExpenseReportPage.g.cs
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\App.g.cs
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\ExpenseIt9.g.resources
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\myan\Downloads\ExpenseItIntro\ExpenseItIntro\cs\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\bin\Debug\ExpenseIt9.exe
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\bin\Debug\ExpenseIt9.pdb
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\ExpenseItIntro.csprojResolveAssemblyReference.cache
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\ExpenseItHome.baml
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\ExpenseReportPage.baml
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\MainWindow.baml
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\App.baml
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\ExpenseItHome.g.cs
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\ExpenseReportPage.g.cs
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\MainWindow.g.cs
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\App.g.cs
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\obj\x86\Debug\ExpenseIt9.g.resources
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\ExpenseIt9.exe
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\ExpenseIt9.pdb
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\bin\Debug\ExpenseIt9.exe
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\bin\Debug\ExpenseIt9.pdb
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\ExpenseItHome.baml
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\ExpenseReportPage.baml
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\MainWindow.baml
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\App.baml
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\ExpenseItHome.g.cs
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\ExpenseReportPage.g.cs
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\MainWindow.g.cs
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\App.g.cs
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\ExpenseIt9_MarkupCompile.cache
+C:\Users\myan\Documents\Visual Studio 2012\Projects\ExpenseItIntro\ExpenseItUbtro\obj\x86\Debug\ExpenseIt9.g.resources
